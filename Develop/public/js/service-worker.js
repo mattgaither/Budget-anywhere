@@ -10,6 +10,7 @@ const FILES_TO_CACHE = [
     '/manifest.json',
     '/css/style.css',
     '/js/index.js',
+    '/js/indexdb.js',
     '/icons/icon-72x72.png',
     '/icons/icon-96x96.png',
     '/icons/icon-128x128.png',
